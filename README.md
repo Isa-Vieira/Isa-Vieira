@@ -1,10 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Isabelly</h1>
 
 ///
+
 <div align="center">
   <a href="https://github.com/Isa-Vieira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Isabelly Vieira=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly Vieira=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaVieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaVieira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## Languages & Tools
