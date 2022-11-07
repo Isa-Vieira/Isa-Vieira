@@ -13,9 +13,8 @@
 </div>
 
 ## Languages 
-<div style="display: inline_block"><br>
-<img align="center" alt="Isa-js" heigt="30px" width"40px" 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+<div style="display: inline_block"><br> 
+<img align="center" alt="Isa-js" height="30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
  </div>          
 
 
