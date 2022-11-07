@@ -1,85 +1,23 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Eu sou a Isabelly</h1>
 
+💻 Estudante de desenvolvimento web full stack
+
+🌎 Nos momentos livre gosto de viajar, ficar com a família, assistir bons filmes, ir para academia ...
+
+🇺🇲 Já morei no EUA, e foi aí que tudo começou...
 
 <div align="center">
   <a href="https://github.com/Isa-Vieira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaVieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaVieira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Isa-Vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-Vieira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Languages & Tools
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>RTL</strong></span><br>
-            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>ESLint</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
-            </td>
-        </tr>
-      </tbody>
-  </table>
-  <table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Node.JS</strong></span><br>
-            <img height="32px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Docker</strong></span><br>
-            <img height="32px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>MySQL</strong></span><br>
-            <img height="32px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>VSCode</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Linux</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
-        </tr>
-    </tbody>
-</table>
+## Languages 
+<div style="display: inline_block"><br>
+<img align="center" alt="Isa-js" heigt="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+</div>          
 
----
+
   
   ## My contacts
  
