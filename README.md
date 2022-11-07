@@ -39,9 +39,7 @@
    
    <div style="display: inline_block"><br>
    <img align="center" alt="Isa-js" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
-              
-     
-           
+             
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -49,6 +47,12 @@
           
  <div style="display: inline_block"><br> 
 <img align="center" alt="Isa-js" height="30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+   
+   
+  <div style="display: inline_block"><br> 
+ <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
+   
  </div>          
 
 
