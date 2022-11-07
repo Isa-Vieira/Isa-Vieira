@@ -14,8 +14,9 @@
 
 ## Languages 
 <div style="display: inline_block"><br>
-<img align="center" alt="Isa-js" heigt="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-</div>          
+<img align="center" alt="Isa-js" heigt="30px" width"40px" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+ </div>          
 
 
   
