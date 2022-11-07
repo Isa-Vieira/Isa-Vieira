@@ -14,13 +14,21 @@
 
 ## Languages 
 <div style="display: inline_block"><br> 
- <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   
   <div style="display: inline_block"><br> 
  <img align="center" alt="Isa-js" height="30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     
   <div style="display: inline_block"><br>   
  <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    
+   <div style="display: inline_block"><br>
+  <img align="center" alt="Isa-js" height="30" width"40" text="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+     
+   <div style="display: inline_block"><br>
+  <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+           
+
           
           
  <div style="display: inline_block"><br> 
