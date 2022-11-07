@@ -90,6 +90,6 @@
   
   <div>
     <p align="left">
-      <a href="https://www.icloud.com/in/isabellyrvieira@icloud.com" target="_blanck"><img
+      <a href="" target="_blanck"><img
        src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
     </p>
