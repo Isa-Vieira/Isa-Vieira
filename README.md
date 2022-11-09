@@ -13,20 +13,57 @@
 </div>
 
 # Tecnologias 
-<div style="display: inline_block"><br> 
- <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img align="center" alt="Isa-js" height="30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
- <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  
+<div align="center" style="display: flex; gap:10px; align-items: center">
+<table>
+ <img align="center" alt="Isa-js" height="30" width="40"  text="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<p>JavaScript</p>
+</table>
+<div>
+ <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<p>HTML</p>
+</div>
+<div>
+ <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<p>CSS</p>
+</div>
+<div>
   <img align="center" alt="Isa-js" height="30" width"40" text="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<p>Jest</p>
+</div>
+<div>
   <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<p>Redux</p>
+</div>
+<div>
+ <img align="center" alt="Isa-js" height="30" width"40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<p>React</p>
+</div>
+<div>
   <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Isa-js" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
-  <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Isa-js" height="30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+<p>Node.js</p>
+</div>
+<div>
+<img align="center" alt="Isa-js" height="30" width"40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<p>Sequelize</p>
+</div>
+<div>
+<img align="center" alt="Isa-js" height="30" width"40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<p>Mysql</p>
+</div>
+<div>  
+<img align="center" alt="Isa-js" height="30" width"40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<p>Docker</p>
+</div>
+<div>
  <img align="center" alt="Isa-js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          
-   
+ <p>Typescript</p>
+</div>
+
  </div>          
 
 
