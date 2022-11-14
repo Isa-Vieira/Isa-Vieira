@@ -28,70 +28,54 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <p>Html</p>
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <p>Css</p>  
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <p>Jest</p>   
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <p>Redux</p>    
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <p>React</p>      
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <p>Node.js</p> 
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 <p>Sequelize</p>   
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <p>Mysql</p>   
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <p>Docker</p>  
 </th>
-</tr>
-<tr>
 <th>
 <img align="center" alt="Isa-js" height="30" width="40" text="JavaScript"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<p>Typescript</p>     
+<p>Typescript</p>    
+  </th>
+  </tr>
 </table>
-  </div>  
+  </div>
   
  
   
